@@ -1,3 +1,6 @@
-#include <main>
+#include < stdio.h>
 
-dafuq
+void main()
+{
+    printf("\nHello World\n");
+}
