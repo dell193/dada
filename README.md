@@ -1,1 +1,2 @@
-$ ln -s /home/stan/public/coffee-script/bin/cake /usr/local/bin/cake
+task 'say:hello', 'Description of task', ->
+  console.log 'Hello World!'
